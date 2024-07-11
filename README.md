@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alaharilakshyan
 - 👀 I’m interested in Web Developing & Ui/Ux.
-- 🌱 I’m currently learning PYTHON, HTML, CSS, JS.
+- 🌱 I’m currently learning Python, HTML, CSS, JS.
 - 💞️ I’m looking to collaborate with othere.
 - 📫 How to reach me [Alahari Lakshyan](www.linkedin.com/in/alaharilakshyan)
 
