@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshyan Alahari</h1>
 <h3 align="center">Driven by curiosity, powered by code, and always ready to turn ideas into innovation!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaharilakshyan&label=Profile%20views&color=0e75b6&style=flat" alt="alaharilakshyan" /> </p>
+<p align="left"> <img src=""C:\Users\alaha\OneDrive\Pictures\Saved Pictures\suzume.jpeg"" alt="alaharilakshyan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaharilakshyan" alt="alaharilakshyan" /></a> </p>
 
