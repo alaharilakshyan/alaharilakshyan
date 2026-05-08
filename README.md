@@ -3,7 +3,7 @@
 
 # Hey there 👋 I'm Lakshyan Alahari
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Open+Source+Contributor;Creative+Frontend+Designer;Building+Scalable+Web+Applications;Always+Learning+New+Tech+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Creative+Frontend+Designer;Building+Scalable+Web+Applications;Always+Learning+New+Tech+🚀" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
